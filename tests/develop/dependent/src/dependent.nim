@@ -1,3 +1,3 @@
-import srcdirtest
+import dependency
 
-doAssert foo() == "correct"
+doAssert test() == "15"
